@@ -1,9 +1,6 @@
 #  Titulo do Projeto
  Contador de Porcentagem
 
-Acesse meu projeto "Contador" <a href="https://rickrafael.github.io/-Counter/counter/"> clicando aqui </a>
-
-.
 
 ## Autor
 
@@ -19,6 +16,8 @@ Projeto com botões de iniciar e parar uma contagem, utilizando HTML5, CSS3 e co
 
 ## 🛠 Habilidades
 HTML5, CSS3, Java Script, Bootstrap, Git, Github
+
+⚡ Acesse meu projeto "Contador" <a href="https://rickrafael.github.io/-Counter/counter/"> clicando aqui </a> ⚡
 
 
 
